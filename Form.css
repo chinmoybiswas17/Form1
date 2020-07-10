@@ -1,0 +1,48 @@
+body{width:357px;margin-left:500px;padding:17px;border: 1px solid black;}
+button.signup2 {
+    width: 300px;
+    color: white;
+    background-color: #ff2222;
+    padding: 10px;
+    /* border-radius: 10%; */
+    cursor: pointer;border:none
+}
+
+.signup1 {}
+
+input#fn {
+    width: 300px;
+    border-radius: 10px;
+	border:1px solid #f1f1f1
+}
+
+form {
+    width: 317px;
+    padding: 17px;
+    background: #03a9f485;
+    border-radius: 1%;
+	
+}
+
+input#ln {}
+
+input#ln {
+    width: 300px;border:1px solid #f1f1f1;border-radius: 10px;
+
+}
+
+input#email {
+    width: 300px;border:1px solid #f1f1f1;border-radius: 10px;
+
+}
+
+input#password {
+    width: 300px;border:1px solid #f1f1f1;border-radius: 10px;
+
+}
+
+input#telephone {
+    width: 300px;border:1px solid #f1f1f1;border-radius: 10px;
+
+}
+h1{text-align:center}
